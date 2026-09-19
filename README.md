@@ -1,8 +1,8 @@
-# Hi 👋, I'm Mohan Poojary
+# Hi 👋, I'm Mohana Poojary
 
 ### QA Automation Engineer | Quality Engineering | Playwright | API Testing | CI/CD
 
-I'm a **QA Automation Engineer** with 2.9+ years of experience in software testing, specializing in building reliable automation and improving software quality through automation, API testing, and CI/CD.
+I'm a **QA Automation Engineer** with 3 years of experience in software testing, specializing in building reliable automation and improving software quality through automation, API testing, and CI/CD.
 
 I enjoy exploring **AI-powered tools** and using them to improve software testing and engineering workflows.
 
@@ -56,8 +56,8 @@ I enjoy exploring **AI-powered tools** and using them to improve software testin
 ### 🤖 AI Tools
 
 1. **AI Assistants:** ChatGPT, Claude, Gemini
-2. **AI Coding Tools:** OpenAI Codex
-3. **AI Testing:** Momentic
+2. **AI Coding Tools:** Claude Code, OpenAI Codex
+3. **AI Testing Tools:** Momentic
 4. **AI-assisted QA:** Test case generation, test automation, test data generation, failure analysis
 
 ---
